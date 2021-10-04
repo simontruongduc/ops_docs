@@ -1,4 +1,4 @@
-# Auto deploy smakon API
+# Auto deploy Document laravel
 
 ## Install deploy and  init source  
 
